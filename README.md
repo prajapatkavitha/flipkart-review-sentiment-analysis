@@ -30,25 +30,20 @@ The entire project was developed and executed in **Google Colab**, making it eas
 git clone <repo_url>
 cd <repo_folder>
 2️⃣ Open in Google Colab
-
 You can run the notebook directly in Google Colab by uploading it or by using the Colab badge below:
 
 3️⃣ Run the notebook
-
 Upload the dataset to Colab.
 
 Execute each cell in order to reproduce the results.
 
 📊 Example Output
 Review	Predicted Sentiment
-| Review                                           | Predicted Sentiment |
-| ------------------------------------------------ | ------------------- |
-| *"Great product! Works perfectly."*              | ✅ Positive          |
-| *"Very poor quality. Waste of money."*           | ❌ Negative          |
-| *"It’s okay, not too bad but not great either."* | 😐 Neutral          |
+"Great product! Works perfectly."	✅ Positive
+"Very poor quality. Waste of money."	❌ Negative
+"It’s okay, not too bad but not great either."	😐 Neutral
 
 🛠 Tech Stack
-
 Python
 
 Pandas, NumPy
@@ -62,22 +57,19 @@ NLTK / spaCy (for text preprocessing)
 Google Colab (runtime environment)
 
 📜 License
-
 This project is open-source and available under the MIT License.
 
 💡 Author
-
 P. Kavitha
 Passionate about Data Science, Machine Learning, and NLP 🚀
 
+yaml
+Copy
+Edit
 
-✅ Fixes made:  
+---
 
-✅ Fixes made:  
-- Every code block (` ```bash `) is properly **closed** before starting the next heading.  
-- Removed accidental spaces that could make headings look like plain text.  
-- Clean and consistent heading levels.  
+Now **2️⃣ Open in Google Colab** and all following sections will show as proper headings in GitHub instead of plain text.  
 
-If you paste **this exact content** into GitHub’s README editor, you’ll get proper heading sizes for **2️⃣ Open in Google Colab** and all sections after it.  
-
+If you want, I can also **add your Colab accurac
 Do you want me to also **embed your actual accuracy score from Colab into the Example Output section** so it looks more complete?
