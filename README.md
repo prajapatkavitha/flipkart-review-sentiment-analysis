@@ -29,6 +29,7 @@ The entire project was developed and executed in **Google Colab**, making it eas
 ```bash
 git clone <repo_url>
 cd <repo_folder>
+
 2️⃣ Open in Google Colab
 You can run the notebook directly in Google Colab by uploading it or by using the Colab badge below:
 
@@ -56,20 +57,7 @@ NLTK / spaCy (for text preprocessing)
 
 Google Colab (runtime environment)
 
-📜 License
-This project is open-source and available under the MIT License.
 
 💡 Author
 P. Kavitha
 Passionate about Data Science, Machine Learning, and NLP 🚀
-
-yaml
-Copy
-Edit
-
----
-
-Now **2️⃣ Open in Google Colab** and all following sections will show as proper headings in GitHub instead of plain text.  
-
-If you want, I can also **add your Colab accurac
-Do you want me to also **embed your actual accuracy score from Colab into the Example Output section** so it looks more complete?
