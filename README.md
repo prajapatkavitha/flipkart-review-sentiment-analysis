@@ -44,6 +44,6 @@ Google Colab (runtime environment)
 
 ---
 
-💡 Author
-P. Kavitha
-Passionate about Data Science, Machine Learning, and NLP 🚀
+### 💡 Author
+-P. Kavitha
+-Passionate about Data Science, Machine Learning, and NLP 🚀
