@@ -23,11 +23,13 @@ The entire project was developed and executed in **Google Colab**, making it eas
 
 ---
 
-### 📊 Example Output
-Review	Predicted Sentiment
-"Great product! Works perfectly."	✅ Positive
-"Very poor quality. Waste of money."	❌ Negative
-"It’s okay, not too bad but not great either."	😐 Neutral
+## 📊 Example Output
+
+| Review                                           | Predicted Sentiment |
+| ------------------------------------------------ | ------------------- |
+| "Great product! Works perfectly."                | ✅ Positive          |
+| "Very poor quality. Waste of money."             | ❌ Negative          |
+| "It’s okay, not too bad but not great either."   | 😐 Neutral           |
 
 ---
 
@@ -38,9 +40,9 @@ Pandas, NumPy
 Matplotlib, Seaborn, WordCloud
 Scikit-learn
 NLTK / spaCy (for text preprocessing)
-
 Google Colab (runtime environment)
 
+---
 
 💡 Author
 P. Kavitha
