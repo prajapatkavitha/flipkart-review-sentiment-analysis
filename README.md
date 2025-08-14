@@ -23,36 +23,20 @@ The entire project was developed and executed in **Google Colab**, making it eas
 
 ---
 
-## 🚀 Installation & Usage
-
-### 1️⃣ Clone the repository
-```bash
-git clone <repo_url>
-cd <repo_folder>
-
-2️⃣ Open in Google Colab
-You can run the notebook directly in Google Colab by uploading it or by using the Colab badge below:
-
-3️⃣ Run the notebook
-Upload the dataset to Colab.
-
-Execute each cell in order to reproduce the results.
-
-📊 Example Output
+### 📊 Example Output
 Review	Predicted Sentiment
 "Great product! Works perfectly."	✅ Positive
 "Very poor quality. Waste of money."	❌ Negative
 "It’s okay, not too bad but not great either."	😐 Neutral
 
-🛠 Tech Stack
+---
+
+### 🛠 Tech Stack
+
 Python
-
 Pandas, NumPy
-
 Matplotlib, Seaborn, WordCloud
-
 Scikit-learn
-
 NLTK / spaCy (for text preprocessing)
 
 Google Colab (runtime environment)
